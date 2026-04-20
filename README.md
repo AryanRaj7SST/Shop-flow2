@@ -6,6 +6,7 @@ A complete React + Vite e-commerce application built with the GoCart UI template
 
 ```bash
 npm install
+node server.cjs
 npm run dev
 ```
 
